@@ -1,0 +1,19 @@
+.gitignore file for the Attendance & Payroll Management project
+Node modules
+node_modules/
+
+Environment variables
+.env
+
+Log files
+*.log
+
+Compiled output
+dist/
+
+Cache files
+.cache/
+
+IDE specific files
+.vscode/
+.idea/
